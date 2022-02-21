@@ -1,1 +1,10 @@
 # Escape-from-the-labyrinth
+
+A maze game in which the player has to go through the maze and figure out how to get out.!
+
+Screenshots:
+[274238980_507505774053651_3253739571260622097_n](https://user-images.githubusercontent.com/45337134/154960211-0a527222-9b3b-4463-9943-6b0255907627.jpg)
+![274154590_900424803966279_6079124060698897681_n](https://user-images.githubusercontent.com/45337134/154960335-d85eb776-8565-40f2-b1d3-83d7b21d3365.jpg)
+![274264876_1098888947348821_1606815624150502221_n](https://user-images.githubusercontent.com/45337134/154960367-cd3eceff-aefb-4d44-b59e-cd74c1ba5f48.jpg)
+![273961839_4800554736707048_6887806749320547134_n](https://user-images.githubusercontent.com/45337134/154960460-4583e769-b140-4ad5-9beb-ee41065e2679.jpg)
+![274301293_280766987427543_6147554481198887076_n](https://user-images.githubusercontent.com/45337134/154960470-54691778-6f90-4c0f-a205-9d3998765db6.jpg)
