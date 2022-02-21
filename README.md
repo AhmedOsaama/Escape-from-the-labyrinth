@@ -1,6 +1,6 @@
 # Escape-from-the-labyrinth
 
-A maze game in which the player has to go through the maze and figure out how to get out.!
+A maze game in which the player has to go through the maze and figure out how to get out.
 
 Screenshots:
 
